@@ -17,6 +17,8 @@ pipeline_tag: text2text-generation
 <!-- This model card has been generated automatically according to the information the Trainer had access to. You
 should probably proofread and complete it, then remove this comment. -->
 
+This model was created as part of a hackathon for SAWiT.
+
 # Results
 
 This model is a fine-tuned version of [facebook/mbart-large-50-many-to-many-mmt](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt) on an unknown dataset.
@@ -100,3 +102,5 @@ The following hyperparameters were used during training:
 - Transformers 4.48.3
 - Pytorch 2.5.1+cu124
 - Tokenizers 0.21.0
+
+The model is available on HuggingFace: https://huggingface.co/VudhanthiNeeraja/results
