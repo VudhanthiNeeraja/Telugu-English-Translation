@@ -6,7 +6,7 @@ tags:
 model-index:
 - name: results
 dataset link:
-- [VudhanthiNeeraja/Telugu-day-2-day](https://huggingface.co/datasets/VudhanthiNeeraja/Telugu-day-2-day)
+- https://huggingface.co/datasets/VudhanthiNeeraja/Telugu-day-2-day
 language:
 - en
 - te
